@@ -6,7 +6,7 @@ Demo: https://vimeo.com/325645567
 Medium Post for this project: https://medium.com/@wmjpillow/bidirectional-interaction-mobile-web-bce0414094d1
 ------
 
-![GitHub Logo](screenshot.png)
+![GitHub Logo](OSC.gif)
 
 Introduction:
 ------
